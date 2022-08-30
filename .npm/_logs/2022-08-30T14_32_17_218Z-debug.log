@@ -34,7 +34,7 @@
 13 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:287:5)
 14 verbose pkgid node-red@1.3.5
 15 verbose cwd /atomic
-16 verbose Linux 5.4.0-1073-azure
+16 verbose Linux 5.4.0-1089-azure
 17 verbose argv "/usr/local/bin/node" "/usr/local/bin/npm" "start" "--cache" "/data/atomic/.npm" "--" "--userDir" "/data/atomic" "/data/atomic/flows.json"
 18 verbose node v12.22.11
 19 verbose npm  v6.14.16
