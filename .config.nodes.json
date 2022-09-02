@@ -655,22 +655,22 @@
             }
         }
     },
-    "node-red-contrib-npm": {
-        "name": "node-red-contrib-npm",
-        "version": "1.0.2",
+    "node-red-contrib-uuid": {
+        "name": "node-red-contrib-uuid",
+        "version": "0.0.4",
         "local": true,
         "user": true,
         "nodes": {
-            "npm": {
-                "name": "npm",
+            "UUID": {
+                "name": "UUID",
                 "types": [
-                    "npm"
+                    "uuid"
                 ],
                 "enabled": true,
                 "local": true,
                 "user": false,
-                "module": "node-red-contrib-npm",
-                "file": "/data/atomic/node_modules/node-red-contrib-npm/npm/npm.js"
+                "module": "node-red-contrib-uuid",
+                "file": "/data/atomic/node_modules/node-red-contrib-uuid/uuid/uuid.js"
             }
         }
     }
